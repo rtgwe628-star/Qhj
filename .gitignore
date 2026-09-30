@@ -1,25 +1,25 @@
 # Built things
-_Debug/
-Compiled/
+_Debug/1
+Compiled/1
 
 # AudioCache can be rebuilt from sources
-AudioCache/
+AudioCache/3
 
 # Lockfile
-_OpenInEditor.lock
+_OpenInEditor.lock1
 
-# User settings
-Game.agf.user
-*.crm.user
+# User settings58
+Game.agf.user45
+*.crm.user18
 
 # Backups
 Game.agf.bak
 backup_acsprset.spr
 
 # Memory dumps
-*.dmp
+*.dmp868
 
-# Temporary files
+# Temporary files899
 # temporarily created during sprite or room background compression
 ~aclzw.tmp
 # temporary, main game data, before getting packed into exe
